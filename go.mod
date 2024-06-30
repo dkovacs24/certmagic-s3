@@ -1,4 +1,4 @@
-module github.com/ss098/certmagic-s3
+module github.com/dkovacs24/certmagic-s3
 
 go 1.16
 
